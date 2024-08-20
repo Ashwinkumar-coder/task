@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'YourFont1';
+  src: url('./Fonts/Fontspring-DEMO-altivo-blackitalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'YourFont2';
+  src: url('./Fonts/Fontspring-DEMO-altivo-blackitalic.otf') format('opentype');
+}
+
+body {
+  font-family: 'YourFont1', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-image: url('./Assets/Desktop_View_HeaderBG.png');
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  color:rgb(191, 181, 181);
+}
+
+
+
+.header-content {
+  padding: 20px;
+  color: white;
+  font-size: 1.5em;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-image: url('./Assets/MobileView_Footer_BG.png');
+  backdrop-filter: blur(10px);
+  color: white;
+  padding: 10px;
+}
+
+.hero-banner {
+  background: url('./Assets/images1.png') no-repeat center center;
+  background-size: cover;
+  height: 300px;
+  margin-top: 60px;
+}
+
+.hero-banner-responsive {
+  background: url('./Assets/images.png') no-repeat center center;
+  background-size: cover;
+  height: 150px;
+}
+
+.accordion {
+  margin: 20px 0;
+}
+
+
+  main {
+    padding-bottom: 80px;
+  }
+
+  .header-content {
+    font-size: 1.2em;
+  }
+
+  .footer {
+    padding: 15px;
+  }
+
+  .hero-banner {
+    display: none;
+  }
+
+  .hero-banner-responsive {
+    display: block;
+    margin-top: 60px;
+  }
+

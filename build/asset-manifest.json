@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42dd51b5.css",
+    "main.js": "/static/js/main.eedd7826.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Desktop_View_HeaderBG.png": "/static/media/Desktop_View_HeaderBG.06e4ea3142cfdf0b0264.png",
+    "static/media/MobileView_Footer_BG.png": "/static/media/MobileView_Footer_BG.81306da0aaad1c2bcffb.png",
+    "static/media/images1.png": "/static/media/images1.f5c9a78f66482c929ada.png",
+    "static/media/Fontspring-DEMO-altivo-blackitalic.otf": "/static/media/Fontspring-DEMO-altivo-blackitalic.29b07b34c642eb08676b.otf",
+    "index.html": "/index.html",
+    "main.42dd51b5.css.map": "/static/css/main.42dd51b5.css.map",
+    "main.eedd7826.js.map": "/static/js/main.eedd7826.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42dd51b5.css",
+    "static/js/main.eedd7826.js"
+  ]
+}
